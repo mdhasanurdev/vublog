@@ -34,7 +34,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to) => {
-    const {title} = to.meta ?? {};
+    const {title} = to.meta;
     document.title = title || 'Vue JS';
 });
 

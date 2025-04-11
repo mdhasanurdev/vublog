@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Vue.js",
+    "author": "Jane Doe",
+    "date": "2025-04-01",
+    "summary": "An introduction to Vue.js and how to set up your first project.",
+    "content": "Vue.js is a progressive framework for building user interfaces. It is designed to be incrementally adaptable, meaning you can use as much or as little of it as you need."
+  },
+  {
+    "id": 2,
+    "title": "Understanding Reactivity in Vue",
+    "author": "John Smith",
+    "date": "2025-04-03",
+    "summary": "Learn how Vue’s reactivity system works and how to use it effectively.",
+    "content": "Vue’s reactivity system is one of its core features. It allows the UI to automatically update when data changes, providing a seamless experience for the user."
+  },
+  {
+    "id": 3,
+    "title": "Vue Router Basics",
+    "author": "Alice Johnson",
+    "date": "2025-04-05",
+    "summary": "How to set up and use Vue Router to handle page navigation.",
+    "content": "Vue Router is the official router for Vue.js. It enables you to create single-page applications with multiple views by mapping routes to components."
+  },
+  {
+    "id": 4,
+    "title": "State Management with Pinia",
+    "author": "Bob Brown",
+    "date": "2025-04-06",
+    "summary": "Manage your application’s state using the Pinia store.",
+    "content": "Pinia is a state management library that provides a simple and intuitive API for managing state in Vue applications. It is the official state management solution for Vue 3."
+  },
+  {
+    "id": 5,
+    "title": "Styling Your Vue App with Tailwind CSS",
+    "author": "Catherine Green",
+    "date": "2025-04-07",
+    "summary": "Combine the power of Vue and Tailwind to build beautiful UIs.",
+    "content": "Tailwind CSS is a utility-first CSS framework that allows you to quickly build custom designs. When paired with Vue, it enables rapid and flexible styling for your applications."
+  },
+  {
+    "id": 6,
+    "title": "Deploying Your Vue App to Netlify",
+    "author": "Daniel Lee",
+    "date": "2025-04-08",
+    "summary": "Step-by-step guide to deploying a Vue project using Netlify.",
+    "content": "Netlify makes deploying front-end projects simple. With just a few steps, you can deploy your Vue.js app and take advantage of powerful features like continuous deployment and serverless functions."
+  },
+  {
+    "id": 7,
+    "title": "Creating Reusable Components in Vue",
+    "author": "Eva White",
+    "date": "2025-04-09",
+    "summary": "Learn how to build and organize reusable Vue components.",
+    "content": "Reusable components are key to maintaining clean and modular code. By using Vue’s component system, you can encapsulate logic and UI elements to reuse them across your app."
+  },
+  {
+    "id": 8,
+    "title": "Vue 3 Composition API Crash Course",
+    "author": "Frank Black",
+    "date": "2025-04-10",
+    "summary": "Master the Composition API in Vue 3 with this quick tutorial.",
+    "content": "The Composition API provides a more flexible way to organize and reuse code in Vue 3. It allows you to group logic by feature rather than by lifecycle hooks."
+  },
+  {
+    "id": 9,
+    "title": "Handling Forms in Vue",
+    "author": "Grace Blue",
+    "date": "2025-04-11",
+    "summary": "Everything you need to know about form handling in Vue.",
+    "content": "Forms are an essential part of any web application. Vue provides reactive form bindings that simplify the process of handling form inputs and validation."
+  },
+  {
+    "id": 10,
+    "title": "Using Axios to Fetch Data in Vue",
+    "author": "Henry Gold",
+    "date": "2025-04-11",
+    "summary": "Learn how to use Axios to fetch and handle API data in Vue.",
+    "content": "Axios is a promise-based HTTP client that works in both the browser and Node.js. It is commonly used in Vue applications to fetch data from APIs and handle asynchronous requests."
+  },
+  {
+    "id": 11,
+    "title": "Building a Blog with Vue and Firebase",
+    "author": "Ivy Red",
+    "date": "2025-04-12",
+    "summary": "Create a full-featured blog app using Vue and Firebase for the backend.",
+    "content": "Firebase is a powerful backend-as-a-service platform that provides easy-to-use features for authentication, database storage, and hosting. This tutorial will guide you through building a blog application."
+  },
+  {
+    "id": 12,
+    "title": "Vue and TypeScript: A Perfect Combination",
+    "author": "Jack Blue",
+    "date": "2025-04-13",
+    "summary": "Integrating TypeScript with Vue for better code quality and safety.",
+    "content": "TypeScript enhances Vue’s development experience by providing static types, which help catch errors early. This post covers how to configure Vue 3 with TypeScript."
+  },
+  {
+    "id": 13,
+    "title": "Mastering Vue 3 Lifecycle Hooks",
+    "author": "Kyle Green",
+    "date": "2025-04-14",
+    "summary": "Learn the ins and outs of Vue 3’s lifecycle hooks and how to use them.",
+    "content": "Vue’s lifecycle hooks allow you to run code at specific stages of a component’s life. Understanding them is key to managing data and DOM updates efficiently."
+  },
+  {
+    "id": 14,
+    "title": "Making Your Vue App Accessible",
+    "author": "Lily Smith",
+    "date": "2025-04-15",
+    "summary": "How to make your Vue.js app more accessible to users with disabilities.",
+    "content": "Web accessibility is important for creating inclusive user experiences. This article covers best practices for making your Vue apps accessible to everyone."
+  },
+  {
+    "id": 15,
+    "title": "Vue 3 vs Vue 2: Key Differences and Upgrades",
+    "author": "Megan White",
+    "date": "2025-04-16",
+    "summary": "Compare the new features in Vue 3 with Vue 2, and learn how to upgrade your projects.",
+    "content": "Vue 3 introduces several performance improvements and new features such as the Composition API, better TypeScript support, and more. This post helps you migrate from Vue 2 to Vue 3."
+  },
+  {
+    "id": 16,
+    "title": "Understanding Computed Properties in Vue",
+    "author": "Nina Gray",
+    "date": "2025-04-17",
+    "summary": "How to effectively use computed properties in Vue for performance and code clarity.",
+    "content": "Computed properties in Vue allow you to define properties that depend on other reactive data sources. They are automatically recalculated when dependencies change."
+  },
+  {
+    "id": 17,
+    "title": "Dynamic Component Loading in Vue",
+    "author": "Oliver Brown",
+    "date": "2025-04-18",
+    "summary": "Learn how to load components dynamically in Vue to improve performance.",
+    "content": "Dynamic component loading in Vue helps to optimize performance by loading components only when needed. This post walks you through the process."
+  },
+  {
+    "id": 18,
+    "title": "Testing Vue Components with Jest",
+    "author": "Peter Black",
+    "date": "2025-04-19",
+    "summary": "Get started with testing Vue components using Jest.",
+    "content": "Jest is a powerful testing framework that can be used to write unit tests for Vue components. In this tutorial, we’ll set up Jest and test Vue components."
+  },
+  {
+    "id": 19,
+    "title": "Building a Real-time Chat App with Vue and Socket.io",
+    "author": "Quincy White",
+    "date": "2025-04-20",
+    "summary": "Create a real-time chat application using Vue and Socket.io for web sockets.",
+    "content": "Socket.io allows you to create real-time, bidirectional communication between the client and server. Learn how to build a chat application with Vue and Socket.io."
+  },
+  {
+    "id": 20,
+    "title": "Optimizing Vue Performance with Lazy Loading",
+    "author": "Rachel Blue",
+    "date": "2025-04-21",
+    "summary": "Improve the performance of your Vue applications by using lazy loading.",
+    "content": "Lazy loading allows you to load components only when they are needed, thus reducing the initial load time. This article covers how to implement lazy loading in Vue."
+  },
+  {
+    "id": 21,
+    "title": "Vue 3 and Composition API with TypeScript",
+    "author": "Samuel Green",
+    "date": "2025-04-22",
+    "summary": "A comprehensive guide to using the Composition API with TypeScript in Vue 3.",
+    "content": "Using TypeScript with Vue’s Composition API enhances your development experience by providing type safety and improved code completion. Learn how to set it up."
+  },
+  {
+    "id": 22,
+    "title": "Vue and GraphQL: Fetching Data with Apollo",
+    "author": "Tina Black",
+    "date": "2025-04-23",
+    "summary": "Learn how to integrate GraphQL with Vue using Apollo Client for data fetching.",
+    "content": "GraphQL is a powerful alternative to REST APIs. This tutorial walks you through setting up Apollo Client to fetch data from a GraphQL endpoint in your Vue app."
+  },
+  {
+    "id": 23,
+    "title": "Building a Photo Gallery App with Vue and Firebase",
+    "author": "Ursula White",
+    "date": "2025-04-24",
+    "summary": "Create a photo gallery app that allows users to upload and view images with Vue and Firebase.",
+    "content": "Firebase's storage and authentication features make it easy to build a photo gallery app. Learn how to use Firebase to handle image uploads and user authentication in your Vue app."
+  },
+  {
+    "id": 24,
+    "title": "Making a Responsive Vue App with Tailwind CSS",
+    "author": "Victor Red",
+    "date": "2025-04-25",
+    "summary": "Learn how to create a responsive Vue app using the power of Tailwind CSS.",
+    "content": "Tailwind CSS offers utility classes for building responsive layouts with ease. This tutorial covers how to use Tailwind to create a mobile-first responsive Vue app."
+  },
+  {
+    "id": 25,
+    "title": "State Management with Vuex in Vue 3",
+    "author": "Wendy Brown",
+    "date": "2025-04-26",
+    "summary": "Master state management in Vue 3 using Vuex, the official state management library.",
+    "content": "Vuex is the state management solution for Vue.js. Learn how to manage the state of your application in a scalable and maintainable way using Vuex."
+  },
+  {
+    "id": 26,
+    "title": "Vue 3 Composition API: Reusable Logic in Vue",
+    "author": "Xander Green",
+    "date": "2025-04-27",
+    "summary": "Discover how to write reusable logic in Vue 3 using the Composition API.",
+    "content": "The Composition API in Vue 3 allows you to organize and reuse logic across components, making your code cleaner and more maintainable."
+  },
+  {
+    "id": 27,
+    "title": "Vue and Tailwind CSS: A Powerful Combination",
+    "author": "Yasmine White",
+    "date": "2025-04-28",
+    "summary": "Explore how Vue and Tailwind CSS complement each other in creating modern, beautiful web applications.",
+    "content": "By using Vue for dynamic UI components and Tailwind CSS for styling, you can build fast, responsive, and highly customizable applications."
+  },
+  {
+    "id": 28,
+    "title": "Error Handling in Vue with Try-Catch",
+    "author": "Zane Black",
+    "date": "2025-04-29",
+    "summary": "Learn how to effectively handle errors in Vue.js using try-catch blocks.",
+    "content": "Error handling is crucial for building robust applications. In this article, we explore how to catch and handle errors in your Vue.js components."
+  },
+  {
+    "id": 29,
+    "title": "Implementing Dark Mode in Vue with Tailwind CSS",
+    "author": "Aaron Red",
+    "date": "2025-04-30",
+    "summary": "How to implement dark mode in your Vue app using Tailwind CSS's built-in dark mode support.",
+    "content": "Tailwind CSS makes it easy to implement dark mode in your app. Learn how to use its dark mode feature with Vue.js to provide users with a personalized experience."
+  },
+  {
+    "id": 30,
+    "title": "Building a Weather App with Vue and OpenWeatherMap API",
+    "author": "Bella Green",
+    "date": "2025-05-01",
+    "summary": "Create a weather application in Vue.js that fetches data from the OpenWeatherMap API.",
+    "content": "In this tutorial, we’ll build a weather app that displays real-time weather data using Vue.js and the OpenWeatherMap API."
+  }
+]

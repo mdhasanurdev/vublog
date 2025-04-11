@@ -1,24 +1,22 @@
 <script setup>
-
 </script>
 
 <template>
-  <section class="bg-white h-screen dark:bg-gray-900">
-    <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
-      <img class="w-full dark:hidden" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg" alt="dashboard image">
-      <img class="w-full hidden dark:block" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup-dark.svg" alt="dashboard image">
-      <div class="mt-4 md:mt-0">
-        <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Welcome to about page!</h2>
-        <p class="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consequuntur cum deleniti dicta, dolorum enim fugiat maiores molestias nam, non, possimus quia reprehenderit soluta temporibus?</p>
-        <a href="#" class="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900">
-          Get started
-          <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-        </a>
-      </div>
+  <section class="bg-white dark:bg-gray-900 min-h-screen py-16 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 dark:text-white mb-6">About VuBlog</h1>
+      <p class="text-lg text-gray-600 dark:text-gray-400 mb-10 leading-relaxed">
+        VuBlog is a modern, minimalist blogging platform crafted with Vue 3 and styled using Tailwind CSS. It's built for creators who care about speed, simplicity, and style — whether you're writing technical tutorials, sharing personal thoughts, or launching your online publication.
+        <br /><br />
+        We created VuBlog because we were tired of bloated, overcomplicated CMS platforms. What we wanted was something fast, clean, and focused purely on content — no noise, no distractions. VuBlog loads instantly, looks great out of the box, and gives you just enough tools to do what matters most: write and share.
+        <br /><br />
+        Every part of VuBlog has been designed with performance and usability in mind. It works great on mobile, supports dark mode, and integrates well with modern JavaScript tools. Whether you're just starting out or migrating from another platform, VuBlog gives you a smooth, modern experience without the overhead.
+        <br /><br />
+        We're constantly evolving, too. With an open mind and a clear vision, we’re building a platform that respects your time, your privacy, and your creativity. If you're ready for a blogging experience that puts you back in control — welcome to VuBlog.
+      </p>
     </div>
   </section>
 </template>
 
 <style scoped>
-
 </style>
